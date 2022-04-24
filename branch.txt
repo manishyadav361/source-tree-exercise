@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 branch
-=======
-branch1
->>>>>>> 1f3aa7ad0357ba590ecfaef0706fc88c44f07c7d
