@@ -1,4 +1,5 @@
 const fun = (user) => {
+	let user = JSON.parse(user)
 	alert(user.name)
 }
 
