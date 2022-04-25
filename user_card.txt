@@ -1,1 +1,5 @@
-name: name
+const fun = (user) => {
+	alert(user.name)
+}
+
+<button onClick={fun}>view details </button>
