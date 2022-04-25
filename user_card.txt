@@ -1,1 +1,6 @@
-name: name
+const fun = (user) => {
+	let user = JSON.parse(user)
+	alert(user.name)
+}
+
+<button onClick={fun}>view details </button>
