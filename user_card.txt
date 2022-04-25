@@ -2,5 +2,9 @@ const fun = (user) => {
 	let user = JSON.parse(user)
 	alert(user.name)
 }
-
+const profile = (user) => {|
+	let user = JSON.parse(user)
+	alert(profile.name)
+}
 <button onClick={fun}>view details </button>
+<button onClick={profile}>profile name </button>
